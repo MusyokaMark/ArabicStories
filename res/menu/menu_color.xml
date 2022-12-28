@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/actionTvColor"
+        android:icon="@drawable/ic_text_color"
+        android:title="@string/text_color"
+        app:showAsAction="always"/>
+ <item
+        android:id="@+id/actionBgColor"
+        android:icon="@drawable/ic_baseline_color_lens_24"
+        android:title="@string/back_color"
+        app:showAsAction="always"/>
+
+</menu>

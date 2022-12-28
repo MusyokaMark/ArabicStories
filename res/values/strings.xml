@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Arabic Youngster Writer App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="zero">0:00</string>
+    <string name="textTitle">Here Is Title</string>
+    <string name="select_audio_file_title">Select Audio</string>
+    <string name="select_sound_file">Select Sound File</string>
+    <string name="sucesselect">Sucessfully Select Image</string>
+    <string name="tap_to_upload_an_image">Tap to upload an image</string>
+    <string name="tap_to_upload_an_animation">Tap to upload an animation</string>
+    <string name="animation">Animation</string>
+    <string name="write_story">Write Story</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="type_a_title">Type a title</string>
+    <string name="paragraph">Paragraph</string>
+    <string name="type_your_paragraph">Type your paragraph</string>
+    <string name="cover_image">Cover Image</string>
+    <string name="submit_your_story">Submit your Story</string>
+    <string name="enter_title">Enter Word</string>
+    <string name="enter_desc">Enter Meaning</string>
+    <string name="add_record">Add Record</string>
+    <string name="empty_list_text">Empty Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete Record</string>
+    <string name="my_story">My Story</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="create_story">Create Story</string>
+    <string name="read_story">Read Story</string>
+    <string name="enter_story_title">Enter Story Title</string>
+    <string name="audio">Audio</string>
+    <string name="text">Text</string>
+    <string name="picture">Picture</string>
+    <string name="template">Template</string>
+    <string name="cancle">Cancle</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="copy">Copy</string>
+    <string name="add_page">Add Page</string>
+    <string name="text_color">Text Color</string>
+    <string name="back_color">Back Color</string>
+</resources>
